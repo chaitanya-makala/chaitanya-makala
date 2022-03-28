@@ -56,15 +56,18 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya-makala&" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya-makala&show_icons=true&locale=en&layout=compact" alt="chaitanya-makala" /></p>
+<p align="center">
+ <a href="https://github.com/chaitanya-makala/github-readme-stats"><img alt="Chaitanya-Makala Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-makala&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
   
 
 <hr>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanya-makala&show_icons=true&locale=en&layout=compact" alt="chaitanya-makala" /></p>
+ -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{chaitanya-makala}/count.svg" /></p> 
 <br></div>
-
