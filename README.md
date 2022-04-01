@@ -185,7 +185,7 @@
 
 <hr>
 <h2>📈 Stats</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya-makala" alt="chaitanya-makala" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya-makala" alt="chaitanya-makala" /></a> </p>
 
 ![Chaitanya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chaitanya-makala&hide_border=true&theme=redical)
 
